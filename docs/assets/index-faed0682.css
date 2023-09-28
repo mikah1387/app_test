@@ -1,0 +1,1 @@
+body{background:coral}h1{text-align:center}section{display:grid;grid-template-columns:repeat(auto-fit,minmax(500px,1fr));margin:50px calc(100px + 3vw)}section div{width:400px;height:400px;background:white;margin:20px}
